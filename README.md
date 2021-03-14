@@ -1,6 +1,6 @@
 # Counters Project
 
-Project developed in React Native
+Counter project, using context, with react native
 
 ## Installation
 
